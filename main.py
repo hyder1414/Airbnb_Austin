@@ -57,3 +57,5 @@ data['last_review'] = pd.to_datetime(data['last_review'])
 
 # %%
 
+# Nimimum night can increase our average price. Becuase some people may have condition of 30 days as minum nigt thus thier price will be higher
+#try to get price per night for all how you normalize that?
